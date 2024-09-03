@@ -31,4 +31,4 @@ To run this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Rahul2512002/Todo-List-Application.git
+   git clone https://github.com/Rahul2512002/Todo-List-Application.git 
